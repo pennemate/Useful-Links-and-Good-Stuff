@@ -10,11 +10,11 @@ I think the repo name is pretty self explanatory
   * Shoutout to the authors Kurose and Ross, because of the punny jokes in this book. Great for beginners, assumes you know nothing (which is true for me, always). 
   
 ## Linux
-2. https://www.youtube.com/watch?v=wBp0Rb-ZJak
+1. https://www.youtube.com/watch?v=wBp0Rb-ZJak
   * Complete Linux Guide, beginner to power user. 
 
 ## Github
-3. Markdown cheat sheets:
+1. Markdown cheat sheets:
   *  https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
   * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   
