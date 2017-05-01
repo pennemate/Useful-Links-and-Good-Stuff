@@ -37,3 +37,6 @@ I think the repo name is pretty self explanatory
 4. http://www.the-blockchain.com/docs/Princeton%20Bitcoin%20and%20Cryptocurrency%20Technologies%20Course.pdf
   * The book for link numero tres. 
 
+## CERT's SiLK
+1. https://resources.sei.cmu.edu/asset_files/Presentation/2010_017_001_49833.pdf
+  * CMU presentation on netflow analysis
